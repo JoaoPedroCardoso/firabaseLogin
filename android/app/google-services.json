@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418851784719",
+    "project_id": "fir-dispmoveislogin",
+    "storage_bucket": "fir-dispmoveislogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418851784719:android:89b95da2727814489afb7a",
+        "android_client_info": {
+          "package_name": "com.iftm.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418851784719-ob5t0ko92utq99n0srml3gjnnsgknjr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoi-O_zK-dsa2JGll3jVAQ9pPljb9ZuaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418851784719-ob5t0ko92utq99n0srml3gjnnsgknjr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
