@@ -8,7 +8,7 @@ import { ActivityIndicator, View } from 'react-native';
 
 GoogleSignin.configure({
   webClientId:
-    '//procure pelo valor client_id para o par "client_type": 3',
+    '418851784719-ob5t0ko92utq99n0srml3gjnnsgknjr7.apps.googleusercontent.com',
 });
 
 export const logOut = async () => {
